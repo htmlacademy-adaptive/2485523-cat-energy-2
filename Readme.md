@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Daria](https://up.htmlacademy.ru/adaptive-individual/2/user/2485523).
-* Наставник: [Екатерина Комнатная] (https://htmlacademy.ru/profile/id215761).
+* Наставник: [Екатерина Комнатная](https://htmlacademy.ru/profile/id215761).
 
 ---
 
